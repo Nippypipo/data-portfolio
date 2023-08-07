@@ -16,4 +16,6 @@ I learn a lot of stuff
 - Python programming
 - Essential Python for Data Analyst
 - Dashboard
+
+  You can find me on LinkedIn: https://www.linkedin.com/in/nipun-angkavichai-935455253/
   
